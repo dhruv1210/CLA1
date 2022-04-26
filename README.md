@@ -52,6 +52,7 @@ Sample Input 0
 1 2 78
 2 2 0
 3 0
+
 Sample Output 0
 
 78
